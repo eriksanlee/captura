@@ -6,3 +6,10 @@
 body {
     background-color: black;
 }
+
+main {
+    background-image: url(../image/developer.jpg);
+}
+.title h1 {
+    color: white;
+}
