@@ -7,9 +7,22 @@ body {
     background-color: black;
 }
 
+.container {
+    max-width:  800px;
+    margin: 0 auto;
+    outline: 1px solid orange;
+}
+
+header {
+    width: 100%;
+}
+
 main {
     background-image: url(../image/developer.jpg);
+    background-repeat: no-repeat;
+    
 }
+
 .title h1 {
     color: white;
 }
